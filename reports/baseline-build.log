@@ -1,0 +1,22 @@
+/Users/sverker/repos/3d-models/scripts/build_baseline.py:26: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  material.use_nodes = True
+IMPORT groundFloor.stl
+00:00.588  io.stl           | WARNING Removed 7 duplicate triangles during import
+IMPORT firstFloor.stl
+00:03.155  io.stl           | WARNING Removed 12 duplicate triangles during import
+IMPORT secondFloor.stl
+00:05.371  io.stl           | WARNING Removed 106 degenerate triangles during import
+00:05.371  io.stl           | WARNING Removed 3 duplicate triangles during import
+/Users/sverker/repos/3d-models/scripts/build_baseline.py:79: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes = True
+00:09.837  render           | Saved: '/Users/sverker/repos/3d-models/renders/baseline/exterior.png'
+00:13.742  render           | Saved: '/Users/sverker/repos/3d-models/renders/baseline/interior.png'
+00:16.520  render           | Saved: '/Users/sverker/repos/3d-models/renders/baseline/facade.png'
+Info: Saved as "baseline.blend"
+BASELINE_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+Timer 'STL Import' took 774.67 ms
+Timer 'STL Import' took 686.11 ms
+Timer 'STL Import' took 192.62 ms
+
+Blender quit

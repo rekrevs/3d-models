@@ -1,0 +1,68 @@
+{
+  "groundFloor": {
+    "vertices": 2375480,
+    "polygons": 4749687,
+    "triangles": 4749687,
+    "edges": 7124531,
+    "boundary_edges": 14,
+    "wire_edges": 0,
+    "edges_over_two_faces": 8,
+    "finite_coordinates": true,
+    "bounds_local": [
+      [
+        143.92897033691406,
+        -275.5037536621094,
+        -0.02383507788181305
+      ],
+      [
+        295.0155029296875,
+        -124.97157287597656,
+        72.0
+      ]
+    ]
+  },
+  "firstFloor": {
+    "vertices": 2217298,
+    "polygons": 4433106,
+    "triangles": 4433106,
+    "edges": 6649659,
+    "boundary_edges": 25,
+    "wire_edges": 0,
+    "edges_over_two_faces": 22,
+    "finite_coordinates": true,
+    "bounds_local": [
+      [
+        164.1986083984375,
+        -255.8808135986328,
+        84.98206329345703
+      ],
+      [
+        262.93389892578125,
+        -145.73460388183594,
+        157.0
+      ]
+    ]
+  },
+  "secondFloor": {
+    "vertices": 701903,
+    "polygons": 1403529,
+    "triangles": 1403529,
+    "edges": 2105261,
+    "boundary_edges": 5,
+    "wire_edges": 0,
+    "edges_over_two_faces": 37,
+    "finite_coordinates": true,
+    "bounds_local": [
+      [
+        165.0,
+        -255.0,
+        169.96595764160156
+      ],
+      [
+        252.3209686279297,
+        -168.98435974121094,
+        208.10768127441406
+      ]
+    ]
+  }
+}

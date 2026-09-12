@@ -1,0 +1,52 @@
+{
+  "version": "2.1.0",
+  "next_id": 7,
+  "tasks": [
+    {
+      "id": "T-0001",
+      "size": "S",
+      "status": "DONE",
+      "summary": "Dokumentera förutsättningar och starta Wotan"
+    },
+    {
+      "id": "T-0002",
+      "size": "M",
+      "status": "DONE",
+      "after": [
+        "T-0001"
+      ],
+      "summary": "Importera, montera och rendera originalmodellen"
+    },
+    {
+      "id": "T-0003",
+      "size": "M",
+      "status": "DONE",
+      "after": [
+        "T-0002"
+      ],
+      "summary": "Skapa och granska en asymmetriskt skadad övervåning"
+    },
+    {
+      "id": "T-0004",
+      "size": "M",
+      "status": "IDEA",
+      "summary": "Laga och utskriftsgranska näten för en vald ruinvariant",
+      "after": [
+        "T-0003"
+      ]
+    },
+    {
+      "id": "T-0005",
+      "size": "S",
+      "status": "DONE",
+      "summary": "Samla original-STL och referensfoton under sources/"
+    },
+    {
+      "id": "T-0006",
+      "size": "M",
+      "status": "ONGOING",
+      "phase": "IMPLEMENTING",
+      "summary": "Initiera Git och spegla projektet privat på GitHub"
+    }
+  ]
+}

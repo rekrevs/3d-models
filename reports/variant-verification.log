@@ -1,0 +1,92 @@
+00:00.292  blend            | Read blend: "/Users/sverker/repos/3d-models/scenes/damaged_01.blend"
+CORNER firstFloor {'x_less_than': 185, 'within_0_1_mm': True, 'max_vertex_distance_mm': 0.0, 'unmatched_after_rounding': [0, 0], 'vertices_after': 1371834, 'vertices_before': 1371834}
+00:10.198  io.stl           | WARNING Removed 4 duplicate triangles during import
+CORNER secondFloor {'x_less_than': 185, 'within_0_1_mm': True, 'max_vertex_distance_mm': 0.0, 'unmatched_after_rounding': [0, 0], 'vertices_after': 405338, 'vertices_before': 405338}
+00:12.446  io.stl           | WARNING Removed 1 duplicate triangles during import
+{
+  "sources_unchanged": {
+    "groundFloor.stl": true,
+    "firstFloor.stl": true,
+    "secondFloor.stl": true
+  },
+  "preserved_corner_region": {
+    "firstFloor": {
+      "x_less_than": 185,
+      "within_0_1_mm": true,
+      "max_vertex_distance_mm": 0.0,
+      "unmatched_after_rounding": [
+        0,
+        0
+      ],
+      "vertices_after": 1371834,
+      "vertices_before": 1371834
+    },
+    "secondFloor": {
+      "x_less_than": 185,
+      "within_0_1_mm": true,
+      "max_vertex_distance_mm": 0.0,
+      "unmatched_after_rounding": [
+        0,
+        0
+      ],
+      "vertices_after": 405338,
+      "vertices_before": 405338
+    }
+  },
+  "roundtrip": {
+    "firstFloor": {
+      "vertices": 1934916,
+      "polygons": 3870257,
+      "triangles": 3870257,
+      "edges": 5804674,
+      "boundary_edges": 272,
+      "wire_edges": 0,
+      "edges_over_two_faces": 1694,
+      "finite_coordinates": true,
+      "bounds_local": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          98.73529052734375,
+          110.14620971679688,
+          72.01793670654297
+        ]
+      ],
+      "dimensions_match": true,
+      "on_origin": true
+    },
+    "secondFloor": {
+      "vertices": 471371,
+      "polygons": 944185,
+      "triangles": 944185,
+      "edges": 1415538,
+      "boundary_edges": 172,
+      "wire_edges": 0,
+      "edges_over_two_faces": 1647,
+      "finite_coordinates": true,
+      "bounds_local": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          78.44973754882812,
+          86.01564025878906,
+          38.12782287597656
+        ]
+      ],
+      "dimensions_match": true,
+      "on_origin": true
+    }
+  },
+  "ground_mesh_unchanged": true
+}
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+Timer 'STL Import' took 708.88 ms
+Timer 'STL Import' took 120.09 ms
+
+Blender quit

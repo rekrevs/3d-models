@@ -1,0 +1,14 @@
+00:00.375  blend            | Read blend: "/Users/sverker/repos/3d-models/scenes/baseline.blend"
+BOOLEAN secondFloor Jagged facade fracture
+BOOLEAN secondFloor Floor edge collapse
+Info: File exported successfully
+EXPORTED secondFloor
+00:45.141  render           | Saved: '/Users/sverker/repos/3d-models/renders/probe_holes/exterior.png'
+00:51.815  render           | Saved: '/Users/sverker/repos/3d-models/renders/probe_holes/interior.png'
+00:56.384  render           | Saved: '/Users/sverker/repos/3d-models/renders/probe_holes/facade.png'
+Info: Saved as "probe_holes.blend"
+VARIANT_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+Timer 'STL Export' took 63.25 ms
+
+Blender quit

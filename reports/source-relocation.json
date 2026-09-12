@@ -1,0 +1,32 @@
+[
+  {
+    "from": "groundFloor.stl",
+    "to": "sources/stl/groundFloor.stl",
+    "sha256": "d8ae802e6e34b414cad606f2ca417c94e2fd7e8fd2bee4f24730fbe96b218c86"
+  },
+  {
+    "from": "firstFloor.stl",
+    "to": "sources/stl/firstFloor.stl",
+    "sha256": "dc33394165e860a3b4d827ba52c2ec73909177981e10521210f2bd0ccd6b98ad"
+  },
+  {
+    "from": "secondFloor.stl",
+    "to": "sources/stl/secondFloor.stl",
+    "sha256": "5a12a95b3f0efa4b09387e45609edb8a34bfa94cef5d074cf2d04d723a1aba1b"
+  },
+  {
+    "from": "0b94653d0d731293.webp",
+    "to": "sources/photos/0b94653d0d731293.webp",
+    "sha256": "abb70d0545ca0b1d9d0464d880d83d3d24cafb09ab23f92c7ca83327c24dad27"
+  },
+  {
+    "from": "57e02a57318e662e.webp",
+    "to": "sources/photos/57e02a57318e662e.webp",
+    "sha256": "331f083bbd7f723147047e71deaab561ca9ccf287c0bfb83884621d97422864a"
+  },
+  {
+    "from": "c8f5c06c1c3bb0e7.webp",
+    "to": "sources/photos/c8f5c06c1c3bb0e7.webp",
+    "sha256": "aa706d98bfaee6fa7db26da32f7bbb86fe8a592c136c78f8c07cb8fb69a9b57e"
+  }
+]

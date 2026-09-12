@@ -1,0 +1,82 @@
+{
+  "blender": "5.2.1 LTS",
+  "assumed_unit": "mm",
+  "assembly_note": "Source levels spaced at 85; broad mating planes spaced at 70. Two-unit protrusions do not set stacking height. XY unchanged.",
+  "files": [
+    {
+      "file": "sources/stl/groundFloor.stl",
+      "sha256": "d8ae802e6e34b414cad606f2ca417c94e2fd7e8fd2bee4f24730fbe96b218c86",
+      "bytes": 237484784,
+      "source_triangles": 4749694,
+      "imported_triangles": 4749687,
+      "vertices": 2375480,
+      "source_bounds": [
+        [
+          143.92897033691406,
+          -275.5037536621094,
+          -0.02383507788181305
+        ],
+        [
+          295.0155029296875,
+          -124.97157287597656,
+          72.0
+        ]
+      ],
+      "assembly_translation": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "file": "sources/stl/firstFloor.stl",
+      "sha256": "dc33394165e860a3b4d827ba52c2ec73909177981e10521210f2bd0ccd6b98ad",
+      "bytes": 221655984,
+      "source_triangles": 4433118,
+      "imported_triangles": 4433106,
+      "vertices": 2217298,
+      "source_bounds": [
+        [
+          164.1986083984375,
+          -255.8808135986328,
+          84.98206329345703
+        ],
+        [
+          262.93389892578125,
+          -145.73460388183594,
+          157.0
+        ]
+      ],
+      "assembly_translation": [
+        0,
+        0,
+        -15
+      ]
+    },
+    {
+      "file": "sources/stl/secondFloor.stl",
+      "sha256": "5a12a95b3f0efa4b09387e45609edb8a34bfa94cef5d074cf2d04d723a1aba1b",
+      "bytes": 70181984,
+      "source_triangles": 1403638,
+      "imported_triangles": 1403529,
+      "vertices": 701903,
+      "source_bounds": [
+        [
+          165.0,
+          -255.0,
+          169.96595764160156
+        ],
+        [
+          252.3209686279297,
+          -168.98435974121094,
+          208.10768127441406
+        ]
+      ],
+      "assembly_translation": [
+        0,
+        0,
+        -30
+      ]
+    }
+  ]
+}
