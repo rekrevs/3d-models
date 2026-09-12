@@ -44,8 +44,7 @@
     {
       "id": "T-0006",
       "size": "M",
-      "status": "ONGOING",
-      "phase": "IMPLEMENTING",
+      "status": "DONE",
       "summary": "Initiera Git och spegla projektet privat på GitHub"
     }
   ]
